@@ -1,0 +1,7 @@
+.kagglevenv/
+botsu/
+.ipynb_checkpoints/
+.kaggle/
+*.zip
+*.csv
+requirements.txt
