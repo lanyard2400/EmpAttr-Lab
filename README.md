@@ -13,7 +13,8 @@
 ## プロジェクト構成
 ```bash
 EmployeeAttrition/
-├── data/         # 生データ・前処理後データ
+├── data/         # 生データ・前処理後デー
 ├── models/       # 学習済みモデル
 ├── notebooks/    # 分析ノートブック
+└── reports/      # グラフ画像・分析結果のまとめ
 └── README.md     # このファイル
