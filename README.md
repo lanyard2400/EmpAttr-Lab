@@ -9,3 +9,10 @@
 - Python, pandas, scikit-learn, matplotlib
 - Pipeline / ColumnTransformer
 - Permutation Feature Importance
+
+## プロジェクト構成
+EmployeeAttrition/
+├── data/             # 生データ・前処理後データ
+├── models/           # 学習済みモデル
+├── notebooks/        # 分析ノートブック
+└── README.md         # このファイル
