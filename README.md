@@ -11,8 +11,9 @@
 - Permutation Feature Importance
 
 ## プロジェクト構成
+```bash
 EmployeeAttrition/
-├── data/             # 生データ・前処理後データ
-├── models/           # 学習済みモデル
-├── notebooks/        # 分析ノートブック
-└── README.md         # このファイル
+├── data/         # 生データ・前処理後データ
+├── models/       # 学習済みモデル
+├── notebooks/    # 分析ノートブック
+└── README.md     # このファイル
